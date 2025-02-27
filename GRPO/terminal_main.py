@@ -1,10 +1,12 @@
 # !/usr/bin/env python3
 
 """
-Reinforcemnet Learning from Human Feedback
+GRPO demo. (The basic framework base on the https://github.com/HarderThenHarder/transformers_tasks/tree/main/RLHF).
 
-Author: Xinchen Han (The basic framework base on the )
-Date: 2025/02/26.
+Replace the previous PPO with GRPO.
+
+Author: Xinchen Han 
+Date: 2025/02/27.
 """
 
 import os
